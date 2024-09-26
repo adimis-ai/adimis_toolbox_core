@@ -6,7 +6,7 @@ with open("requirements.txt") as f:
 setup(
     name="adimis_toolbox_core",
     version="0.0.3",
-    description="Adimis Toolbox Core is a Django-based package designed for executing and scheduling graph based automated workflows while maintaining a knowledge base. This package includes several Django apps that can be easily integrated into your Django projects.",
+    description="Adimis Toolbox Core is a Django-based package designed for executing graph based automated workflows while maintaining a knowledge base. This package includes several Django apps that can be easily integrated into your Django projects.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="Aditya Mishra",
